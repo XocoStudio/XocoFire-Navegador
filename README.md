@@ -18,10 +18,7 @@ Puedes descargar la aplicación desde el siguiente enlace:
 ✅ Limpieza de caché para mejor rendimiento  
 ✅ Última página visitada guardada automáticamente  
 
----
-📌 **Requisitos**:  
-- Windows/Linux/Mac con **Python 3.6+**  
-- Instalación de dependencias con `pip install -r requirements.txt`  
+
 
 🚀 ¡Descárgalo y pruébalo ahora!  
 
